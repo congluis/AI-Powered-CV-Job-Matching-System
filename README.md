@@ -1,4 +1,4 @@
-       1 # CV & Job Matching RAG System
+       1 # CareerPulse AI
        2
        3 Hệ thống so khớp CV và tìm kiếm công việc thông minh sử dụng kỹ thuật **RAG (Retrieval-Augmented
          Generation)** kết hợp với mô hình ngôn ngữ lớn **Gemini** của Google và cơ sở dữ liệu vector **Qdrant**.
